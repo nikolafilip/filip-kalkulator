@@ -1,0 +1,47 @@
+<resources>
+    <string name="default_language">Hrvatski</string>
+    <string name="lang_hr">Hrvatski</string>
+    <string name="lang_en">English</string>
+    <string name="lang_es">Español</string>
+
+    <string name="default_currency_code">kn</string>
+
+    <string name="app_name">KalkulatorFilip</string>
+    <string name="distance_hr">Udaljenost (km)</string>
+    <string name="gas_usage_hr">Potrošnja goriva (l/100km)</string>
+    <string name="gas_price_hr">Cijena goriva (kn/l)</string>
+    <string name="button_hr">IZRAČUNAJ</string>
+    <string name="language_hr">Jezik</string>
+    <string name="app_title_hr">Kalkulator cijene puta</string>
+
+    <string name="distance_en">Distance (km)</string>
+    <string name="gas_usage_en">Fuel consumption (l/100km)</string>
+    <string name="gas_price_en">Fuel price (kn/l)</string>
+    <string name="button_en">CALCULATE</string>
+    <string name="language_en">Language</string>
+    <string name="app_title_en">Trip cost calculator</string>
+
+    <string name="distance_es">Distancia (km)</string>
+    <string name="gas_usage_es">El consumo de combustible (l/100km)</string>
+    <string name="gas_price_es">Precio del combustible (kn/l)</string>
+    <string name="button_es">CALCULAR</string>
+    <string name="language_es">Idioma</string>
+    <string name="app_title_es">Calculadora de precio de viaje</string>
+
+    <string name="trip_price_hr">Cijena puta:&#160;</string>
+    <string name="trip_price_en">Trip price:&#160;</string>
+    <string name="trip_price_es">Precio de viaje:&#160;</string>
+
+    <string name="result_error_hr">Molimo unesite vrijednost veću od 0 u svako polje.</string>
+    <string name="result_error_en">Please enter a value bigger than 0 in all fields.</string>
+    <string name="result_error_es">Ingrese un valor mayor que 0 en todos los campos.</string>
+
+    <string name="dark_mode_text_hr">TAMNA TEMA</string>
+    <string name="dark_mode_text_en">DARK MODE</string>
+    <string name="dark_mode_text_es">MODO OSCURO</string>
+
+    <string name="result_format_string">%.2f</string>
+
+    <string name="color_black">#000000</string>
+    <string name="color_white">#ffffff</string>
+</resources>
